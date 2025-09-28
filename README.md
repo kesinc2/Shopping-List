@@ -118,6 +118,8 @@ Bu proje MIT License altında lisanslanmıştır.
 Bir hata bulursanız veya öneriniz varsa lütfen Issues bölümünden bildirin.
 
 
+ !!EĞİTİM SÜRECİNDE YAZILMIŞ OLUP DERLEMESİ VE YORUMLAMASI CLAUDE Aİ TARAFINDAN YAPILMIŞTIR !!!
+
 
 ---------------------------------- -------------------------------------------
 
