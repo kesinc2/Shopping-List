@@ -1,4 +1,5 @@
-**shoping list **
+# Shopping List App
+
 Modern ve kullanıcı dostu bir alışveriş listesi uygulaması.  JavaScript ile geliştirilmiş, Bootstrap ile stillendirilmiş.
  Özellikler
 
