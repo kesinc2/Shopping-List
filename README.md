@@ -168,7 +168,7 @@ Kodu kopyala
 
 Clone the repository:  
 
-```bash
+
 git clone https://github.com/username/shopping-list.git
 cd shopping-list
 Open the files:
