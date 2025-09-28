@@ -4,7 +4,7 @@ Modern ve kullanıcı dostu bir alışveriş listesi uygulaması. JavaScript ile
 
 ---
 
-## ✨ Özellikler  
+## *- Özellikler  
 
 ✅ **Öğe Ekleme/Silme** – Kolayca yeni öğeler ekleyin veya silin  
 🔄 **Durum Güncelleme** – Öğeleri tamamlandı olarak işaretleyin  
@@ -16,7 +16,7 @@ Modern ve kullanıcı dostu bir alışveriş listesi uygulaması. JavaScript ile
 
 ---
 
-## 🚀 Kullanım  
+## *- Kullanım  
 
 ### Yeni Öğe Ekleme  
 Metin kutusuna öğe adını yazın ve **Enter** tuşuna basın veya **Ekle** butonuna tıklayın.  
