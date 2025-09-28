@@ -1,108 +1,121 @@
-# Shopping List App
+# 🛒 Shopping List App  
 
-Modern ve kullanıcı dostu bir alışveriş listesi uygulaması.  JavaScript ile geliştirilmiş, Bootstrap ile stillendirilmiş.
- Özellikler
+Modern ve kullanıcı dostu bir alışveriş listesi uygulaması. JavaScript ile geliştirilmiş, Bootstrap ile stillendirilmiştir.  
 
-✅ Öğe Ekleme/Silme: Kolayca yeni öğeler ekleyin ve silin
-🔄 Durumu Güncelleme: Öğeleri tamamlandı olarak işaretleyin
-✏️ Inline Düzenleme: Öğe isimlerini tıklayarak düzenleyin
-🔍 Filtreleme: Tüm, tamamlanan veya tamamlanmayan öğeleri görüntüleyin
-💾 Yerel Depolama: Veriler tarayıcınızda saklanır
-🧹 Temizleme: Tüm listeyi tek tıkla temizleyin
-📱 Responsive: Mobil ve masaüstü uyumlu
+---
 
-🚀 Kullanım
-Yeni Öğe Ekleme
+## ✨ Özellikler  
 
-Metin kutusuna öğe adını yazın
-Enter'a basın veya "Ekle" butonuna tıklayın
+✅ **Öğe Ekleme/Silme** – Kolayca yeni öğeler ekleyin veya silin  
+🔄 **Durum Güncelleme** – Öğeleri tamamlandı olarak işaretleyin  
+✏️ **Inline Düzenleme** – Öğelerin adını tıklayarak düzenleyin  
+🔍 **Filtreleme** – Tüm, tamamlanan veya tamamlanmayan öğeleri görüntüleyin  
+💾 **Yerel Depolama** – Veriler tarayıcınızda saklanır  
+🧹 **Temizleme** – Tek tıkla tüm listeyi temizleyin  
+📱 **Responsive** – Mobil ve masaüstü uyumlu  
 
-Öğe Düzenleme
+---
 
-Tamamlanmamış öğelerin üzerine tıklayarak isimlerini düzenleyebilirsiniz
-Enter'a basarak veya başka yere tıklayarak düzenlemeyi bitirin
+## 🚀 Kullanım  
 
-Filtreleme
+### Yeni Öğe Ekleme  
+Metin kutusuna öğe adını yazın ve **Enter** tuşuna basın veya **Ekle** butonuna tıklayın.  
 
-Hepsi: Tüm öğeleri gösterir
-Tamamlanan: Sadece işaretli öğeleri gösterir
-Tamamlanmayan: Sadece işaretsiz öğeleri gösterir
+### Öğe Düzenleme  
+Tamamlanmamış öğelerin üzerine tıklayarak isimlerini düzenleyebilirsiniz.  
+**Enter** tuşuna basarak veya başka yere tıklayarak düzenlemeyi bitirin.  
 
-🛠️ Teknolojiler
+### Filtreleme  
+- **Hepsi**: Tüm öğeleri gösterir  
+- **Tamamlanan**: Sadece işaretli öğeleri gösterir  
+- **Tamamlanmayan**: Sadece işaretsiz öğeleri gösterir  
 
-HTML5: Yapısal işaretleme
-CSS3: Stil ve düzen
- JavaScript: İşlevsellik ve etkileşim
-Bootstrap 5: UI framework
-Local Storage API: Veri saklama
+---
 
-📁 Dosya Yapısı
+## 🛠️ Teknolojiler  
+
+- **HTML5** – Yapısal işaretleme  
+- **CSS3** – Stil ve düzen  
+- **JavaScript** – İşlevsellik ve etkileşim  
+- **Bootstrap 5** – UI framework  
+- **Local Storage API** – Veri saklama  
+
+---
+
+## 📁 Dosya Yapısı  
+
 shopping-list/
 │
-├── index.html          # Ana HTML dosyası
-├── style.css           # Özel CSS stilleri
-├── script.js           # JavaScript işlevselliği
-└── README.md           # Bu dosya
-🏃‍♂️ Kurulum ve Çalıştırma
+├── index.html # Ana HTML dosyası
+├── style.css # Özel CSS stilleri
+├── script.js # JavaScript işlevselliği
+└── README.md # Bu dosya
 
-Repoyu klonlayın
+yaml
+Kodu kopyala
 
-bash   git clone https://github.com/kullaniciadi/shopping-list.git
-   cd shopping-list
+---
 
-Dosyaları açın
+## 🏃‍♂️ Kurulum ve Çalıştırma  
+
+Repoyu klonlayın:  
+
+
+git clone https://github.com/kullaniciadi/shopping-list.git
+cd shopping-list
+Dosyaları açın:
 
 index.html dosyasını bir web tarayıcısında açın
-Veya canlı sunucu (Live Server) kullanın
 
+Veya Live Server eklentisi ile çalıştırın
 
-Kullanmaya başlayın!
-
-Öğe ekleyin, düzenleyin ve listelerinizi yönetin
-
-
+Kullanmaya başlayın 🚀
 
 💡 Özellik Detayları
-Local Storage
+Yerel Depolama
+Tüm veriler tarayıcınızda saklanır
 
-Tüm veriler tarayıcınızın yerel depolama alanında saklanır
 Sayfa yenilense bile verileriniz kaybolmaz
+
 Tarayıcı geçmişini temizlediğinizde veriler silinir
 
 Filtreleme Sistemi
-
 Dinamik filtreleme ile anlık sonuçlar
+
 Aktif filtre görsel olarak vurgulanır
+
 Filtre değiştirirken mevcut öğeler korunur
 
 Düzenleme Modu
-
 Sadece tamamlanmamış öğeler düzenlenebilir
+
 ContentEditable API kullanılır
+
 Enter tuşu ile düzenleme sonlandırılır
 
-
 📝 Gelecek Güncellemeler
+Drag & Drop sıralama
 
- Drag & Drop sıralama
- Kategori sistemi
- Tarih bazlı filtreleme
- Export/Import özelliği
- Dark mode
- PWA desteği
+Kategori sistemi
 
+Tarih bazlı filtreleme
 
+Export/Import özelliği
 
+Dark mode
 
+PWA desteği
+
+📩 İletişim
 Email: eypaln65@gmail.com
 
-
-⭐ Beğendiyseniz yıldız vermeyi unutmayın!
+⭐ Beğendiyseniz projeye yıldız vermeyi unutmayın!
 
 📄 Lisans
 Bu proje MIT License altında lisanslanmıştır.
+
 🐛 Hata Bildirimi
-Hata bulursanız veya öneriniz varsa Issues bölümünden bildirebilirsiniz.
+Bir hata bulursanız veya öneriniz varsa lütfen Issues bölümünden bildirin.
 
 
 
