@@ -1,6 +1,6 @@
-🛒 Shopping List App
-Modern ve kullanıcı dostu bir alışveriş listesi uygulaması. Vanilla JavaScript ile geliştirilmiş, Bootstrap ile stillendirilmiş.
-✨ Özellikler
+**shoping list **
+Modern ve kullanıcı dostu bir alışveriş listesi uygulaması.  JavaScript ile geliştirilmiş, Bootstrap ile stillendirilmiş.
+ Özellikler
 
 ✅ Öğe Ekleme/Silme: Kolayca yeni öğeler ekleyin ve silin
 🔄 Durumu Güncelleme: Öğeleri tamamlandı olarak işaretleyin
@@ -31,9 +31,8 @@ Tamamlanmayan: Sadece işaretsiz öğeleri gösterir
 
 HTML5: Yapısal işaretleme
 CSS3: Stil ve düzen
-Vanilla JavaScript: İşlevsellik ve etkileşim
+ JavaScript: İşlevsellik ve etkileşim
 Bootstrap 5: UI framework
-Bootstrap Icons: İkonlar
 Local Storage API: Veri saklama
 
 📁 Dosya Yapısı
@@ -81,13 +80,6 @@ Sadece tamamlanmamış öğeler düzenlenebilir
 ContentEditable API kullanılır
 Enter tuşu ile düzenleme sonlandırılır
 
-🤝 Katkı Sağlama
-
-Bu repoyu fork edin
-Yeni bir özellik branch'i oluşturun (git checkout -b yeni-ozellik)
-Değişikliklerinizi commit edin (git commit -am 'Yeni özellik: XYZ')
-Branch'inizi push edin (git push origin yeni-ozellik)
-Pull Request oluşturun
 
 📝 Gelecek Güncellemeler
 
@@ -102,8 +94,7 @@ Pull Request oluşturun
 Bu proje MIT License altında lisanslanmıştır.
 🐛 Hata Bildirimi
 Hata bulursanız veya öneriniz varsa Issues bölümünden bildirebilirsiniz.
-👨‍💻 Geliştirici
-Herhangi bir sorunuz için benimle iletişime geçebilirsiniz:
+
 
 GitHub: @kullaniciadi
 Email: email@example.com
