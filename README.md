@@ -90,19 +90,25 @@ Enter tuşu ile düzenleme sonlandırılır
  Dark mode
  PWA desteği
 
+
+
+
+Email: eypaln65@gmail.com
+
+
+⭐ Beğendiyseniz yıldız vermeyi unutmayın!
+
 📄 Lisans
 Bu proje MIT License altında lisanslanmıştır.
 🐛 Hata Bildirimi
 Hata bulursanız veya öneriniz varsa Issues bölümünden bildirebilirsiniz.
 
+
+<img width="1920" height="867" alt="Ekran görüntüsü 2025-09-28 160026" src="https://github.com/user-attachments/assets/e9b0cad2-cfd5-46c1-add6-4f9068fb6e65" />
+
+
+
 <img width="1920" height="860" alt="Ekran görüntüsü 2025-09-28 160105" src="https://github.com/user-attachments/assets/12735a74-6eb4-42fe-9a76-f4e696d74a97" />
 
 
 
-
-<img width="1920" height="867" alt="Ekran görüntüsü 2025-09-28 160026" src="https://github.com/user-attachments/assets/e9b0cad2-cfd5-46c1-add6-4f9068fb6e65" />
-
-Email: email@example.com
-
-
-⭐ Beğendiyseniz yıldız vermeyi unutmayın!
